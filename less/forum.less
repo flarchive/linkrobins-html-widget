@@ -1,0 +1,12 @@
+.LinkRobinsHtmlWidget {
+    .FofWidgets-Widget-content {
+        // Scale the rendered HTML with linkrobins/font-sizer (no-op at default).
+        font-size: calc(1em * var(--lr-text-scale, 1));
+
+        > *:first-child { margin-top: 0; }
+        > *:last-child  { margin-bottom: 0; }
+
+        img    { max-width: 100%; height: auto; }
+        iframe { max-width: 100%; }
+    }
+}
