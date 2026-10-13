@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of linkrobins/html-widget.** Not for installation: use [Packagist](https://packagist.org/packages/linkrobins/html-widget) or the [upstream repository](https://github.com/linkrobins/html-widget).
 
-**0** versions archived · Latest: [`v1.3.3`](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.3.3) · License: `MIT` · Flarum: `^2.0`
+**10** versions archived · Latest: [`v1.3.3`](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.3.3) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-05-10 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.0.0) |
+| `v1.1.0` | 2026-05-28 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.1.0) |
+| `v1.1.1` | 2026-05-31 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.1.1) |
+| `v1.1.2` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.1.2) |
+| `v1.2.0` | 2026-07-23 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.2.0) |
+| `v1.2.1` | 2026-08-12 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.2.1) |
+| `v1.3.0` | 2026-09-27 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.3.0) |
+| `v1.3.1` | 2026-10-10 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.3.1) |
+| `v1.3.2` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.3.2) |
+| `v1.3.3` | 2026-10-13 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-html-widget/tree/archive/v1.3.3) |
 
 Catalog entry: [packages/linkrobins-html-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/linkrobins-html-widget.json)
 
